@@ -1,0 +1,24 @@
+{
+  "name": "recipebot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/replica78/recipebot.git"
+  },
+  "author": "Greg Hedges",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/replica78/recipebot/issues"
+  },
+  "homepage": "https://github.com/replica78/recipebot#readme",
+  "dependencies": {
+    "botkit": "0.0.15",
+    "witbot": "^2.1.0"
+  }
+}
